@@ -1,0 +1,65 @@
+.btn {
+  border: 3px solid #0F9B03;
+  color: #3F0404;
+  background-color: #DEFB8E;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+body {
+background-image: url("elefant.jpg");
+background-repeat: no-repeat;
+}
+
+.out {
+	font: Tahoma, Geneva, sans-serif;
+	font-size: 45px;
+    color: white;
+    text-shadow:
+    /* Outline */
+    -2px -2px 0 #000000,
+    2px -2px 0 #000000,
+    -2px 2px 0 #000000,
+    2px 2px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000; /* Terminate with a semi-colon */
+}
+
+
+.werbung {
+        border: 3px solid #ffffff;
+	font: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+    color: white;
+    text-shadow:
+    /* Outline */
+    -2px -2px 0 #000000,
+    2px -2px 0 #000000,
+    -2px 2px 0 #000000,
+    2px 2px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000; /* Terminate with a semi-colon */
+}
+
+.out2 {
+	font: Tahoma, Geneva, sans-serif;
+	font-size: 17px;
+    color: white;
+    text-shadow:
+    /* Outline */
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white,  
+    -1px 0 0 white,
+    1px 0 0 white,
+    0 1px 0 white,
+    0 -1px 0 white; /* Terminate with a semi-colon */
+}
+
