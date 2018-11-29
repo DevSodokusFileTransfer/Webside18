@@ -1,0 +1,45 @@
+body {
+background-image: url("water2.jpg");
+background-repeat: no-repeat;
+}
+
+.github {
+  border: 3px solid black;
+  color: white;
+  background-color: white;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.githubtext {
+	font: Tahoma, Geneva, sans-serif;
+	font-size: 17px;
+    color: white;
+    text-shadow:
+    /* Outline */
+    -2px -2px 0 #000000,
+    2px -2px 0 #000000,
+    -2px 2px 0 #000000,
+    2px 2px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000; /* Terminate with a semi-colon */
+}
+.Over {
+	font: Tahoma, Geneva, sans-serif;
+	font-size: 50px;
+    color: white;
+    text-shadow:
+    /* Outline */
+    -2px -2px 0 #58E9CB,
+    2px -2px 0 #58E9CB,
+    -2px 2px 0 #58E9CB,
+    2px 2px 0 #58E9CB,  
+    -2px 0 0 #58E9CB,
+    2px 0 0 #58E9CB,
+    0 2px 0 #58E9CB,
+    0 -2px 0 #58E9CB; /* Terminate with a semi-colon */
+}
