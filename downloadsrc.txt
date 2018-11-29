@@ -1,0 +1,27 @@
+<html>
+
+
+<head>
+
+
+</head>
+
+
+<body>
+
+
+<link rel="stylesheet" type="text/css" href="styledown.css">
+
+<p class="mega">Hier können sie den Source Code der Webseite Downloaden!</p>
+
+<a href="downloadsrc.txt" download>
+
+<button class="mega" id="mega1" name="megadownload"><img src="megalogo.png"></button>
+
+</a>
+
+</body>
+
+
+</html>
+
